@@ -1,13 +1,14 @@
-## Reto UX : Rediseño de Mi Gamarra
+# Mi Gamarra
+
+Mi Gamarra app proporciona la mayor información de tiendas y galerías debidamente costituidas ubicadas en el Gran Emporio Comercial de Gamarra, garantizando a los usuarios seguridad y calidad en los productos a todos los usuarios que asisten por primera vez o recurrentemente a Gamarra.
+
 ## Desarrollado para
 [Laboratoria](http://laboratoria.la)
 
-> Track: Common Core.  
-Unidad: Proyecto UX.
 
 # **RETO UX : REDISEÑO  MI GAMARRA APP**
 
-El proyecto consiste en el re diseño de la aplicación de Mi Gamarra,para mejorar funciones de accesibilidad, funcionalidad yy experiencia de usuario.Se realizó un proceso de investigación y conocimiento del usuario, permitiendonos identificar las principales necesidades y requerimientos a mejorar.
+El proyecto consiste en el rediseño de la aplicación de Mi Gamarra, para mejorar funciones de accesibilidad, funcionalidad y experiencia de usuario.Se realizó un proceso de investigación y conocimiento del usuario, permitiendonos identificar las principales necesidades y requerimientos a mejorar.
 
 ##OBJETIVO DEL PROYECTO
 
@@ -19,7 +20,7 @@ Brindar una aplicación que proporcione toda la información de localización y 
 
 Gamarra es el Gran centro Comercial e Industrial del rubro textil, ubicado geográficamente en el distrito de La Victoria en Lima capital de Perú, donde encontramos casi 20,000 empresas textiles entre tiendas comerciales, fabricantes y contratistas, servicios de subcontratación y proveedores de la industria textil.
 
-Se caracteriza por su gran extensión y la diversidad de opciones, pues es posible encontrar desde fabricantes con perfil emprendedor-microempresario hasta grandes corporaciones, dando la flexibilidad para que encuentre lo que busca ya sea Ud. consumidor final, o empresario de negocios. Siempre encontrará una tienda o proveedor a la medida de sus requerimientos, costos competitivos y alto ratio calidad:precio.
+Se caracteriza por su gran extensión y la diversidad de opciones, pues es posible encontrar desde fabricantes con perfil emprendedor-microempresario hasta grandes corporaciones, dando la flexibilidad para que encuentre lo que busca ya sea usted consumidor final o empresario de negocios. Siempre encontrará una tienda o proveedor a la medida de sus requerimientos, costos competitivos y alto ratio de  calidad y precio.
 
 Por la gran extensión territorial Mi Gamarra app proporciona la mayor información de todas las tiendas y galerías debidamente costituidas  garantizando a los usuarios seguridad y calidad en los productos a todos los usuarios que asisten por primera vez o recurrentemente a Gamarra .
 
@@ -105,7 +106,7 @@ Se consideró clasificar las necesidades e inconvenientes por temas.
 ## Testeo
 
 El Paper Prototyping se testeo con 7 usuarios, los cuales se pudo reconocer que el flujo se desarrollo de manera sencilla ,se pudo observar la aceptación de un Mapa de localización que se detalle como acudir a la tienda o Galería seleccionada.
- Lo resaltante fue el que se podra visualizar los preción y se sugirio incorporar la sección de Tendencias .
+ Adicionalmente fue resaltante el poder visualizar los preción y se sugirio incorporar la sección de Tendencias .
 
 ## **Feedback e iteración**
 
