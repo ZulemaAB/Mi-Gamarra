@@ -32,7 +32,7 @@ Por la gran extensión territorial Mi Gamarra app proporciona la mayor informaci
 
 #### Entrevistas personales.
 
-Se realizaron entrevistas a 5 usuarios, en las que se les pidió que usaran la aplciación actual de Mi Gamarra y contaran su experiencia. A cada usuario se le pidió ingresar a cada sección de la aplicación, realizar la tarea principal y contar si logró su objetivo y como fue la experiencia.
+Se realizaron entrevistas a 5 usuarios, en las que se les pidió que usaran la aplicación actual de Mi Gamarra y contaran su experiencia. A cada usuario se le pidió ingresar a cada sección de la aplicación, realizar la tarea principal y contar si logró su objetivo y como fue la experiencia.
 
  **Ada**
 
@@ -41,9 +41,9 @@ Se realizaron entrevistas a 5 usuarios, en las que se les pidió que usaran la a
 
 **Conclusiones de las entrevistas**
 
-- La aplicación no permite el acceso con facebook.
+- La aplicación no permite el acceso con Facebook.
 - Los contenidos de los flujos no guardan relación .
-- No proporciona variedad de información respecto a las tiendas o galerís (No refleja lo que es gamarra).
+- No proporciona variedad de información respecto a las tiendas ó galerías (No refleja lo que es Gamarra).
 - El diseño no es agradable.
 - No se puede apreciar los mapas de localización que menciona.
 
@@ -55,19 +55,19 @@ Se realizaron entrevistas a 5 usuarios, en las que se les pidió que usaran la a
 - La mayoría  100% de los usuarios no tenian conocimiento de la existencia de la aplicación.
 - El 53% de los usuarios no ubica con facilidad las tiendas o Galerías.
 - El 66.7% de los usuarios acuden esporadicamente a Gamarra.
-- Cuando se les pidió que sugirieran qué funcionalidad quisieran que tenga la app, ellos consideraron importante visualizar los precios de los productos, información exacta de como acudir a sus tiendas o galerís seleccionas y estar informados de tendencias y moda actual.
+- Cuando se les pidió que sugirieran qué funcionalidad quisieran que tenga la app, ellos consideraron importante visualizar los precios de los productos, información exacta de como acudir a sus tiendas ó galerías seleccionas y estar informados de tendencias y moda actual.
 
 ![Encuesta](assets/images/encuesta-mi-gamarra.png)
 
 ### **BENCHMARCK**
 
-Para realizar el Benchmarck, acudimos a las diversas aplicaciones que proporcionan el servicio de venta de prendas  online . De aplicaciones como H&M ,Saga Falabella y Oeshle.
+Para realizar el Benchmarcking, acudimos a las diversas aplicaciones que proporcionan el servicio de venta de prendas  online . De aplicaciones como H&M ,Saga Falabella y Oeshle.
 
 ##### **Conclusiones del Benchmarcking**
 
-- De los otros productos encontrados enfocados en la información de prendas y demás, todos tienen la funcionalidad de presenar categorias de los productos.
+- De los otros productos encontrados enfocados en la información de prendas y demás, todos tienen la funcionalidad de presentar categorias de los productos.
 
-- Solo dos de los productos tienen la visualización de precios.
+- Solo dos de las aplicaciones tienen la visualización de precios.
 
 - Solo uno puede puede brindar compra online de los productos mediante la aplicación y sección de filtros.
 
@@ -78,7 +78,7 @@ Para realizar el Benchmarck, acudimos a las diversas aplicaciones que proporcion
 
 ### **User persona.**
 
-Representa al usuario que visita de manera frecuenta a Gamarra.
+Representa al usuario que visita de manera frecuente a Gamarra.
 
 ![User persona](assets/images/USER1.PNG)
 
@@ -108,8 +108,8 @@ Se consideró clasificar las necesidades e inconvenientes por temas.
 
 ## Testeo
 
-El Paper Prototyping se testeo con 7 usuarios, los cuales se pudo reconocer que el flujo se desarrollo de manera sencilla ,se pudo observar la aceptación de un Mapa de localización que se detalle como acudir a la tienda o Galería seleccionada.
- Adicionalmente fue resaltante el poder visualizar los preción y se sugirio incorporar la sección de Tendencias .
+El Paper Prototyping se testeo con 7 usuarios, los cuales se pudo reconocer que el flujo se desarrollo de manera sencilla, se pudo observar la aceptación de un Mapa de localización que se detalle como acudir a la tienda o Galería seleccionada.
+ Adicionalmente fue resaltante el poder visualizar los precios y se sugirió incorporar la sección de Tendencias .
 
 ## **Feedback e iteración**
 
@@ -134,6 +134,9 @@ El usuario puede realizar los siguientes flujos:
 ## **Prototipo de alta fidelidad**
 
 [Mi Gamarra app](https://marvelapp.com/c80id09)
+
+![imagenesMiGamarra](https://raw.githubusercontent.com/ZulemaAB/Mi-Gamarra/master/assets/images/Mi%20Gamarra.PNG)
+
 
 ## **Herramientas utilizadas**
 
