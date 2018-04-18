@@ -4,7 +4,6 @@ Mi Gamarra app proporciona la mayor información de tiendas y galerías debidame
 
 ![imagenesMiGamarra](https://raw.githubusercontent.com/ZulemaAB/Mi-Gamarra/master/assets/images/Mi%20Gamarra.PNG)
 
-
 ## Desarrollado para
 [Laboratoria](http://laboratoria.la)
 
