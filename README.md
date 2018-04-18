@@ -1,12 +1,15 @@
 # Mi Gamarra
 
-Mi Gamarra app proporciona la mayor información de tiendas y galerías debidamente costituidas ubicadas en el Gran Emporio Comercial de Gamarra, garantizando a los usuarios seguridad y calidad en los productos a todos los usuarios que asisten por primera vez o recurrentemente a Gamarra.
+Mi Gamarra app proporciona la mayor información de tiendas y galerías debidamente costituidas ubicadas en el Gran Emporio Comercial de Gamarra, garantizando a los usuarios seguridad y calidad en los productos a todos los usuarios que asisten por primera vez ó frecuentemente a Gamarra.
+
+![imagenesMiGamarra](https://raw.githubusercontent.com/ZulemaAB/Mi-Gamarra/master/assets/images/Mi%20Gamarra.PNG
+
 
 ## Desarrollado para
 [Laboratoria](http://laboratoria.la)
 
 
-# **RETO UX : REDISEÑO  MI GAMARRA APP**
+## **RETO UX : REDISEÑO  MI GAMARRA APP**
 
 El proyecto consiste en el rediseño de la aplicación de Mi Gamarra, para mejorar funciones de accesibilidad, funcionalidad y experiencia de usuario.Se realizó un proceso de investigación y conocimiento del usuario, permitiendonos identificar las principales necesidades y requerimientos a mejorar.
 
