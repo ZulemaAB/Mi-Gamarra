@@ -2,7 +2,7 @@
 
 Mi Gamarra app proporciona la mayor información de tiendas y galerías debidamente costituidas ubicadas en el Gran Emporio Comercial de Gamarra, garantizando a los usuarios seguridad y calidad en los productos a todos los usuarios que asisten por primera vez ó frecuentemente a Gamarra.
 
-![imagenesMiGamarra](https://raw.githubusercontent.com/ZulemaAB/Mi-Gamarra/master/assets/images/Mi%20Gamarra.PNG
+![imagenesMiGamarra](https://raw.githubusercontent.com/ZulemaAB/Mi-Gamarra/master/assets/images/Mi%20Gamarra.PNG)
 
 
 ## Desarrollado para
