@@ -36,7 +36,7 @@ Se realizaron entrevistas a 5 usuarios, en las que se les pidió que usaran la a
 
  **Ada**
 
-![Ada](assets/images/ada.jpg)
+![Ada](assets/images/Ada.jpg)
 
 
 **Conclusiones de las entrevistas**
